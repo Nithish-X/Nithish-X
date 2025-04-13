@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nithish-X
+- 👋 Hi, I’m @Nithish Kannan 
 - 👀 I’m Passionate about to become a Java Developer
 - 🌱 I’m currently learning  Java and BootStrap
 - 💞️ I’m looking to collaborate with new Friends related to my intrested
